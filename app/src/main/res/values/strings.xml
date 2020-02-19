@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Mamba Auth</string>
+    <string name="facebook_app_id">223761251985337</string>
+    <string name="fb_login_protocol_scheme">fb223761251985337</string>
+
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="title_text">Login</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="link_facebook_account">Link FB</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="email_sign_in">Email Login</string>
+    <string name="apple_sign_in">Sign In with Apple</string>
+
+    <string name="sign_in_with_facebook">Sign In with Facebook</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="sign_in_with_email">Sign In with Email</string>
+    <string name="sign_in_with_apple">Sign In with Apple</string>
+
+    <string name="fmt_title">Sign in from: %s</string>
+    <string name="fmt_display_name">Display Name: %s</string>
+    <string name="fmt_email">Email: %s</string>
+    <string name="fmt_phone_number">Phone Number: %s</string>
+    <string name="fmt_uid">UID: %s</string>
+
+    <string name="text_google">Google</string>
+    <string name="text_facebook">Facebook</string>
+    <string name="text_apple">Apple</string>
+    <string name="text_email">Email</string>
+
+
+    <string name="user_fmt">User: %s</string>
+    <string name="status_fmt">Email: %s \nPhone Number: %s \nProvider Id: %s \nUID: %s \nPhoto URL: %s \n</string>
+</resources>

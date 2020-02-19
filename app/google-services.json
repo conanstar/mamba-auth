@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811726243439",
+    "firebase_url": "https://mamba-012620.firebaseio.com",
+    "project_id": "mamba-012620",
+    "storage_bucket": "mamba-012620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811726243439:android:6b21874455edb70f64ef9a",
+        "android_client_info": {
+          "package_name": "com.h2.mambaauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811726243439-pqk31e80n0kd8ncvt76sa64vcp9kskeb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.h2.mambaauth",
+            "certificate_hash": "4102ae45b931f99b317edac1a0fcc12abdbf91c3"
+          }
+        },
+        {
+          "client_id": "811726243439-bc8b1sug7vgh3c10ish1j9gc3dr93s60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYL2PYl8ydx4re8mUue1Ezko-1uNoAi_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811726243439-bc8b1sug7vgh3c10ish1j9gc3dr93s60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
